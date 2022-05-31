@@ -1,0 +1,26 @@
+id: IFF600F99
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:51:41.654959'
+last_modified: '2022-05-31T06:51:41.654965'
+parser: null
+source_metadata:
+  title: Pema Karpo Series
+  language: bo
+  description: 'Texts by the Omniscient Pema Karpo (kun mkhyen padma dkar po) aka
+    Ngawang Norbu (ngag dbang nor bu, 1527-1592), a great scholar and adept of the
+    Drukpa Kagyü school:'
+  volume:
+    f7686:
+      title: 'A Casket of Sacred Dharma: Stages of Meditation on Dependent Arising'
+      base_file: f7686.txt
+      order: 1
+      parent: Commentaries
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
